@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b213b944-4c4d-4a9b-a381-cfd3a0597eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prog1/ArrayQueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prog2/ArrayStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayQueueImpl.executor": "Debug",
+    "Application.ArrayStackDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyQueue.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718249003746</updated>
       <workItem from="1718249004813" duration="1232000" />
-      <workItem from="1718304465974" duration="4142000" />
+      <workItem from="1718304465974" duration="6789000" />
     </task>
     <servers />
   </component>
