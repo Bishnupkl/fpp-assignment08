@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b213b944-4c4d-4a9b-a381-cfd3a0597eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prog2/ArrayStackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prog3/BrowserHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prog3/TestBrowserHistory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
     "Application.ArrayStackDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyQueue.executor": "Run",
+    "Application.TestBrowserHistory.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "kheang",
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718249003746</updated>
       <workItem from="1718249004813" duration="1232000" />
-      <workItem from="1718304465974" duration="6789000" />
+      <workItem from="1718304465974" duration="11990000" />
     </task>
     <servers />
   </component>
@@ -92,6 +93,11 @@
           <url>file://$PROJECT_DIR$/src/prog1/ArrayQueueImpl.java</url>
           <line>45</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prog3/BrowserHistory.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
