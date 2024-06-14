@@ -19,7 +19,7 @@ public class BrowserHistory {
         System.out.println("Visited: " + this.currentUrl);
     }
 
-    public void backward() {
+    public void back() {
         if(backward.isEmpty()) {
             System.out.println("Cannot go backward!");
             return ;
