@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b213b944-4c4d-4a9b-a381-cfd3a0597eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prog3/BrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prog3/TestBrowserHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prog4/TicketingSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +38,12 @@
     "Application.Main.executor": "Run",
     "Application.MyQueue.executor": "Run",
     "Application.TestBrowserHistory.executor": "Run",
+    "Application.TicketingSystem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "kheang",
+    "ignore.preview.features.used": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1718249003746</updated>
       <workItem from="1718249004813" duration="1232000" />
-      <workItem from="1718304465974" duration="11990000" />
+      <workItem from="1718304465974" duration="12280000" />
+      <workItem from="1718327218190" duration="3157000" />
     </task>
     <servers />
   </component>
