@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b213b944-4c4d-4a9b-a381-cfd3a0597eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prog4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prog1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prog4/TicketingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog4/TicketingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prog1/ArrayQueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prog1/ArrayQueueImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,29 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayQueueImpl.executor": "Debug",
-    "Application.ArrayStackDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyQueue.executor": "Run",
-    "Application.TestBrowserHistory.executor": "Run",
-    "Application.TicketingSystem.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "kheang",
-    "ignore.preview.features.used": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/MIU/Courses/FPP/FPP-April-2024/Assignment/fpp-assignment-08/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayQueueImpl.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayStackDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBrowserHistory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicketingSystem.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;kheang&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/MIU/Courses/FPP/FPP-April-2024/Assignment/fpp-assignment-08/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +73,8 @@
       <updated>1718249003746</updated>
       <workItem from="1718249004813" duration="1232000" />
       <workItem from="1718304465974" duration="12280000" />
-      <workItem from="1718327218190" duration="3573000" />
+      <workItem from="1718327218190" duration="4424000" />
+      <workItem from="1718368273408" duration="106000" />
     </task>
     <servers />
   </component>
@@ -87,11 +88,6 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/prog1/ArrayQueueImpl.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/prog1/ArrayQueueImpl.java</url>
