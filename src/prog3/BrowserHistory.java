@@ -20,11 +20,11 @@ public class BrowserHistory {
     }
 
     public void back() {
-        if(backward.isEmpty()) {
+        if (backward.isEmpty()) {
             System.out.println("Cannot go backward!");
-            return ;
+            return;
         }
-        if(!this.currentUrl.equals(backward.peek())){
+        if (!this.currentUrl.equals(backward.peek())) {
             forward.push(this.currentUrl);
         }
         this.currentUrl = backward.pop();
@@ -32,9 +32,9 @@ public class BrowserHistory {
     }
 
     public void forward() {
-        if(forward.isEmpty()) {
+        if (forward.isEmpty()) {
             System.out.println("Cannot go forward!");
-            return ;
+            return;
         }
         String pop = forward.pop();
         this.currentUrl = pop;

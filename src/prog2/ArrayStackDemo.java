@@ -5,44 +5,43 @@ import static java.lang.StringTemplate.STR;
 public class ArrayStackDemo {
     Node header;
 
-    public ArrayStackDemo(){
+    public ArrayStackDemo() {
         header = new Node();
     }
 
-    public void push(int data){
+    public void push(int data) {
         Node newNode = new Node(data);
         newNode.next = header.next;
         header.next = newNode;
         newNode.previous = header;
     }
 
-    public int pop(){
-        if(isEmpty()) return -1;
+    public int pop() {
+        if (isEmpty()) return -1;
         Node deleteItem = header.next;
-        if(header.next.next != null){
+        if (header.next.next != null) {
             header.next = header.next.next;
-        }
-        else{
+        } else {
             header.next = null;
         }
         return deleteItem.data;
     }
 
-    public int peek(){
-        if(isEmpty()) return -1;
+    public int peek() {
+        if (isEmpty()) return -1;
         return header.next.data;
     }
 
-    public boolean isEmpty(){
+    public boolean isEmpty() {
         return header.next == null;
     }
 
     @Override
-    public String toString(){
-        if(isEmpty()) return "Empty Stack";
+    public String toString() {
+        if (isEmpty()) return "Empty Stack";
         StringBuilder s = new StringBuilder("Stack Top (Exit)\n");
         Node currentNode = header.next;
-        while(currentNode != null){
+        while (currentNode != null) {
             s.append(STR."""
                         |\t\{currentNode.data}\t|
                         """);
@@ -50,15 +49,19 @@ public class ArrayStackDemo {
         }
         s.append("Stack Bottom (Dead~End)\n");
         return s.toString();
-    };
+    }
 
-    class Node{
+    ;
+
+    class Node {
         Integer data;
         Node next;
         Node previous;
-        public Node(){
+
+        public Node() {
         }
-        public Node(int data){
+
+        public Node(int data) {
             this.data = data;
         }
     }
